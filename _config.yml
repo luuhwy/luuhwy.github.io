@@ -13,8 +13,8 @@ subtitle                 : "Updated 2023.12.22"
 name                     : &name "Luhan Wang"
 description              : &description ""
 url                      : https://luuhwy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/wang-luhan.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "luuhwy/wang-luhan.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "luuhwy/luuhwy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
