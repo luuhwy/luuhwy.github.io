@@ -7,9 +7,9 @@ redirect_from:
   - /contact
 ---
 
-* Email: wlh@stu.pku.edu.cn, iswanglh@gmail.com
-* Adress: No.6 Kexueyuan South Road Zhongguancun, Haidian District, Beijing 100190, China
+* Email: wlh@stu.pku.edu.cn
+* Address: No. 5 Yiheyuan Road, Haidian District, Beijing, China
 
 <br>
 
-**If you have any questions about me or my projects, please feel free to send me an email. I'm always delighted to engage in discussions and collaborations.**
+**Please feel free to contact me by email for research discussions or potential collaborations.**
