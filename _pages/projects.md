@@ -7,7 +7,7 @@ redirect_from:
   - /projects
 ---
 
-* _**Huawei OpenGraphBLAS Algorithm Library**_
+* _**OpenGraphBLAS Algorithm Library**_
 
   09/2022 - 06/2024
 
@@ -27,7 +27,7 @@ redirect_from:
 
   10/2020 - 10/2021
 
-  * OpenCV can obtain substantial acceleration on Intel platforms by using the low-level IPP library. I focused on fundamental image geometric transformation algorithms and implemented HMPP, a high-performance algorithm library for ARM platforms. With numerical precision aligned against Intel IPP, HMPP improved performance by 108.08% to 435.5% over OpenCV, and this work has been integrated into Huawei Kunpeng's official high-performance software suite.
+  * OpenCV can obtain substantial acceleration on Intel platforms by using the low-level IPP library. I focused on fundamental image geometric transformation algorithms and implemented HMPP, a high-performance algorithm library for ARM platforms. With numerical precision aligned against Intel IPP, HMPP improved performance by 108.08% to 435.5% over OpenCV.
 
 ---
 

@@ -13,7 +13,7 @@ redirect_from:
 
 * Ph.D. in Computer Science and Technology, School of Computer Science, Peking University, 08/2024 - Present. Advisor: Prof. Yifeng Chen
 
-* M. S. in Computer Technology, Institute of Computing Technology (ICT), Chinese Academy of Sciences, 09/2021 - 06/2024
+* M. S. in Computer Technology, Institute of Computing Technology (ICT), Chinese Academy of Sciences, 09/2021 - 06/2024. Advisor: Prof. Haipeng Jia
 
 * B. S. in Computer Science and Technology, School of Information Science and Engineering, Yunnan University, 09/2017 - 06/2021
 
@@ -29,7 +29,7 @@ redirect_from:
 
 **RESEARCH PROJECTS**
 
-* _**Huawei OpenGraphBLAS Algorithm Library**_, 09/2022 - 06/2024
+* _**OpenGraphBLAS Algorithm Library**_, 09/2022 - 06/2024
 
   * Optimized sparse matrix-vector multiplication, PageRank, BFS, and related GraphBLAS kernels. The resulting implementations achieved up to 2.56x speedup over ArmPL on ARM processors and up to 2.31x speedup over Intel MKL on x86 processors.
 
@@ -63,7 +63,6 @@ redirect_from:
 
 - 2023 Merit Student, University of Chinese Academy of Sciences
 - 2023 IEEE Access Reviewer
-- 2023 Huawei Master Student Scholarship, Huawei Technologies Co. (Top 1%)
 - 2022 Merit Student, University of Chinese Academy of Sciences
 - 2020 National Scholarship for Postgraduates, Ministry of Education of the People's Republic of China
 - 2020 Provincial Government Scholarship, Yunnan Provincial Government
