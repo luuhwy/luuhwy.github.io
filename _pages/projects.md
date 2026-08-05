@@ -23,16 +23,16 @@ redirect_from:
 
 ---
 
-* _**HMPP High-Performance Media Library**_
-
-  10/2020 - 10/2021
-
-  * OpenCV can obtain substantial acceleration on Intel platforms by using the low-level IPP library. I focused on fundamental image geometric transformation algorithms and implemented HMPP, a high-performance algorithm library for ARM platforms. With numerical precision aligned against Intel IPP, HMPP improved performance by 108.08% to 435.5% over OpenCV.
-
----
-
 * _**Microsoft Research Asia**_
 
   06/2024 - 12/2024
 
   * Research intern, Heterogeneous Computing Group. I used heterogeneous on-GPU compute resources, including Tensor Cores and CUDA Cores, to accelerate scientific computing workloads. I proposed MatXtract, which perceives matrix sparsity, reorders sparse matrices, and extracts dense subcomputations to optimize sparse matrix-vector multiplication (SpMV). Evaluated on an NVIDIA A100 GPU across 2,059 real-world sparse matrices, MatXtract outperformed cuSPARSE on 96.64% of test cases, with a 1.98x average speedup and up to 8.83x maximum speedup.
+
+---
+
+* _**HMPP High-Performance Media Library**_
+
+  10/2020 - 10/2021
+
+  * OpenCV can obtain substantial acceleration on Intel platforms by using the low-level IPP library. I focused on fundamental image geometric transformation algorithms and implemented HMPP, a high-performance algorithm library for ARM platforms. With numerical precision aligned against Intel IPP, HMPP improved performance by 108.08% to 435.5% over OpenCV.

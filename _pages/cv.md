@@ -37,13 +37,13 @@ redirect_from:
 
   * Proposed four general-purpose GLES optimization chains for embedded-GPU image processing, and designed an accelerated image processing library that achieved 19x, 88x, and 3x speedups over OpenCV across three representative algorithms.
 
-* _**HMPP High-Performance Media Library**_, 10/2020 - 10/2021
-
-  * Implemented HMPP, a high-performance ARM-based library for fundamental image geometric transformations. With numerical precision aligned against Intel IPP, HMPP improved performance by 108.08% to 435.5% over OpenCV.
-
 * _**Microsoft Research Asia, Heterogeneous Computing Group**_, 06/2024 - 12/2024
 
   * Proposed MatXtract, a sparsity-aware matrix transformation method that accelerates SpMV by reordering sparse matrices and extracting dense subcomputations for Tensor Cores and CUDA Cores. On an NVIDIA A100 GPU, MatXtract outperformed cuSPARSE on 96.64% of 2,059 real-world sparse matrices, with a 1.98x average speedup and up to 8.83x maximum speedup.
+
+* _**HMPP High-Performance Media Library**_, 10/2020 - 10/2021
+
+  * Implemented HMPP, a high-performance ARM-based library for fundamental image geometric transformations. With numerical precision aligned against Intel IPP, HMPP improved performance by 108.08% to 435.5% over OpenCV.
 
 <br>
 
